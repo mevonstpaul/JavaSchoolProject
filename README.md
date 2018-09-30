@@ -1,24 +1,5 @@
 # JavaSchoolProject
 
-This project contains the following files:
-
-Interfaces:
-Measurable;
-Screener
-
-Classes:
-Payroll(main method);
-Employee;
-Manager;
-Executive;
-DataSetGeneric;
-EmployeeOnlyScreen;
-ManagerOnlyScreen;
-ExecutiveScreen;
-Utils;
-HRTester;
-DataSetGenericTester
-
 The purpose of this program is to demonstrate the use of various Java topics, including inheritance, interfaces, packages, and JUnit.
 
 The class DataSetGeneric extends ArrayList and stores objects that implement the Measurable interface (in this case that's Employee, Manager, and Executive).
