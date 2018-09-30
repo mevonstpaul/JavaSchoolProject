@@ -3,20 +3,20 @@
 This project contains the following files:
 
 Interfaces:
-Measurable
+Measurable;
 Screener
 
 Classes:
-Payroll(main method)
-Employee
-Manager
-Executive
-DataSetGeneric
-EmployeeOnlyScreen
-ManagerOnlyScreen
-ExecutiveScreen
-Utils
-HRTester
+Payroll(main method);
+Employee;
+Manager;
+Executive;
+DataSetGeneric;
+EmployeeOnlyScreen;
+ManagerOnlyScreen;
+ExecutiveScreen;
+Utils;
+HRTester;
 DataSetGenericTester
 
 The purpose of this program is to demonstrate the use of various Java topics, including inheritance, interfaces, packages, and JUnit.
