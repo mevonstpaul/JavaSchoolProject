@@ -24,3 +24,7 @@ The class DataSetGeneric extends ArrayList and stores objects that implement the
 The Screener classes, along with the method getList(Screener<E> elementScreener) in the DataSetGeneric class, allow for creation of a filtered version of the DataSetGeneric object.
 
 Upon running the program, the user can add various types of employees, display a complete or filtered list of employees, display the employee with the highest salary, and display a payroll list.
+
+Below is a sample picture of the program running:
+
+![javaschoolproject](https://user-images.githubusercontent.com/31909841/46252681-72ebbf80-c43a-11e8-9d99-e51959fca314.png)
